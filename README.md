@@ -11,3 +11,9 @@ The interesting thing is that you have to always add files to git even if it is 
 
 ## Usage
 This being used for practice with git
+
+## Names
+John Snow
+Mark Love
+Mark Paul
+Peter Drury
